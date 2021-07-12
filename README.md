@@ -1,4 +1,4 @@
-![Pavlo Seniv Banner GitHub](https://user-images.githubusercontent.com/71393825/125346293-3a56cf80-e362-11eb-8fde-af4b8820ebb9.png)
+![Banner Github](https://user-images.githubusercontent.com/71393825/125354615-ae967080-e36c-11eb-9495-3922959f57b7.png)
 # Hi friend 👋
 My name is Seniv Pavlo, I am Front End Developer.
 <br />
