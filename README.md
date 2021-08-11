@@ -9,7 +9,7 @@ Social:
 <br />
 <br />
  - 👀 I’m interested in HTML5, CSS3,JS, BOOTSTRAP5 and everything from the frontend
- - 👨🏻‍💼 🖥 I’m currently working on <a href="https://pavloseniv.github.io/Portfolio/PortfolioThree/">PortfolioThree</a> and <a href="https://pavloseniv.github.io/TutorialForBEM/">ProjectBEM</a>.
+ - 👨🏻‍💼 🖥 I’m currently working on <a href="https://pavloseniv.github.io/The-Glass-Huts/The-Glass-Huts/index.html">The-Glass-Huts</a> and <a href="https://pavloseniv.github.io/pavlo-seniv-portfolio/pavlo-seniv-portfolio/index.html">pavlo-seniv-portfolio</a>.
  - 🌱 I’m currently learning Node.js, and web development
  - 💡 I'm looking forward to learning Angular and Vue.
  <br />
