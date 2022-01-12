@@ -7,7 +7,7 @@ I'm a Front End Developer.
 - 👀 I’m interested in HTML5, CSS3,JS, BOOTSTRAP5, Wordpress, Ajax and everything from the frontend.
 - 👨🏻‍💼 🖥 I’m currently working on <a href="https://pavloseniv.github.io/The-Glass-Huts/The-Glass-Huts/index.html">The-Glass-Huts</a> and <a href="https://pavloseniv.github.io/pavlo-seniv-portfolio/pavlo-seniv-portfolio/index.html">pavlo-seniv-portfolio</a>.
 - 🌱 I’m currently learning Node.js, and web development.
-- 💡 I'm looking forward to learning Vue.
+- 💡 I'm looking forward to learning React.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pavloseniv.github.io/pavlo-seniv-portfolio/pavlo-seniv-portfolio/index.html)
