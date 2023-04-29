@@ -1,4 +1,4 @@
-![Banner Github](https://user-images.githubusercontent.com/71393825/125354615-ae967080-e36c-11eb-9495-3922959f57b7.png)
+![Banner Github](![Redditech IT Networks](https://user-images.githubusercontent.com/71393825/235310274-5743bbca-477a-456d-a259-1ccd36b51d4d.png)
 # Hi, I'm Pavlo! 👋
 
 ## 🚀 About Me
