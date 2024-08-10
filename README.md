@@ -5,9 +5,6 @@
 I'm a Front End Developer.
 
 - 👀 I’m interested in HTML5, CSS3,JS, BOOTSTRAP5, React, Ajax and everything from the frontend.
-<!---
-- 👨🏻‍💼 🖥 I’m currently working on <a href="https://github.com/PavloSeniv/PROJECT1">PROJECT1</a> and <a href="https://pavloseniv.github.io/go-trip/go-trip/index.html">Go Trip</a>.
---->
 - 👨🏻‍💼 🖥 I’m currently working on [Consolid](https://consolid.ai/).
 - 🌱 I’m currently learning JavaScript, and web development.
 - 💡 I'm looking forward to learning React.
@@ -28,3 +25,7 @@ I'm a Front End Developer.
 PavloSeniv/PavloSeniv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 --->
+
+<!---
+- 👨🏻‍💼 🖥 I’m currently working on <a href="https://github.com/PavloSeniv/PROJECT1">PROJECT1</a> and <a href="https://pavloseniv.github.io/go-trip/go-trip/index.html">Go Trip</a>.
+---> 
